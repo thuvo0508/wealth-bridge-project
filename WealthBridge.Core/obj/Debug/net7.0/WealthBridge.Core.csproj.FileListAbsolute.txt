@@ -1,0 +1,14 @@
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\bin\Debug\net7.0\WealthBridge.Core.deps.json
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\bin\Debug\net7.0\WealthBridge.Core.runtimeconfig.json
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\bin\Debug\net7.0\WealthBridge.Core.dll
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\bin\Debug\net7.0\WealthBridge.Core.pdb
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.csproj.AssemblyReference.cache
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.AssemblyInfoInputs.cache
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.AssemblyInfo.cs
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.csproj.CoreCompileInputs.cache
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.dll
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\refint\WealthBridge.Core.dll
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.pdb
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\WealthBridge.Core.genruntimeconfig.cache
+E:\2.Work\1. Borrowers\wealth-bridge-project\WealthBridge.Core\obj\Debug\net7.0\ref\WealthBridge.Core.dll
